@@ -1,0 +1,28 @@
+{
+  "name": "c-logg",
+  "version": "0.0.1",
+  "description": "移动的打印神器",
+  "main": "src/index.js",
+  "scripts": {
+    "release": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiven1989/c-logg.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiven1989/c-logg/issues"
+  },
+  "homepage": "https://github.com/kiven1989/c-logg#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1"
+  }
+}
