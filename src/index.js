@@ -1,1 +1,1 @@
-alert('c-logg')
+alert('v0.0.1')
